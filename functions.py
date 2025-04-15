@@ -1,4 +1,4 @@
-def say_hello():
+def say_something():
     print("AI is so cool!")
 
 say_hello()
