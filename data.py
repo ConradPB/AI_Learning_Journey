@@ -1,6 +1,7 @@
 import numpy as np
-cookies = [1,4,2,5,3]
+scores = [150,4218,274,519,316]
 
-average = np.mean(cookies)
-print("Average number of cookies eaten:", average)
+biggest = np.max(scores)
+print("Biggest score is: ", biggest)
+
 
