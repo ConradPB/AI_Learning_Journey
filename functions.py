@@ -1,6 +1,5 @@
 def say_hello():
-    print("Hello, World! I'm the AI buddy.")
+    print("AI is so cool!")
 
-say_hello()
 say_hello()
 say_hello()
