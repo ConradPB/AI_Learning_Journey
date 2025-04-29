@@ -1,4 +1,4 @@
 color = "blue"
 
-for i in range(4):
+for i in range(14):
     print(color + " is Aweeesome")
