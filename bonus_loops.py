@@ -1,4 +1,4 @@
 color = "blue"
 
 for i in range(14):
-    print(color + " is Aweeesome")
+    print(color + " is crzy Aweeesome")
