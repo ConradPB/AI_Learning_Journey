@@ -1,2 +1,2 @@
-days = ["sunny", "rainy", "sunny", "cloudy", "sunny", "rainy", "cloudy"]
+days = ["sunny", "rainy", "sunny", "cloudy", "rainy", "cloudy"]
 print("Days:", days)
