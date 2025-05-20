@@ -4,7 +4,7 @@ cookies = [15,5,15,70, 54, 0]
 
 jars = [12, 4, 13, 8, 43, 11]
 
-add = np.add(cookies, jars)
+add = np.multiply(cookies, jars)
 print("total number of cookies:", add)
 
 
